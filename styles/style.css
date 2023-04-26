@@ -173,6 +173,10 @@ body {
         width: auto;
     }
 
+    .apresentacao__conteudo__titulo {
+        font-size: 1.75rem;
+    }
+
     .apresentacao__imagem {
         width: 75%;
     }
